@@ -1,5 +1,5 @@
 @amrxj
-- 📱 interested in cybersecurity, computer science, ethical hacking.
+- 📱 interested in cybersecurity, computer science.
 
 
 <!---
