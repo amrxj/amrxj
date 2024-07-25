@@ -1,5 +1,5 @@
 @amrxj
-- 📱 interested in penetration testing, SOC, and red-team fields of cybersecurity
+- 📱 interested in penetration testing, SOC, and digital forensics/incident response.
 - CompTIA Security+ in progress.
 
 
