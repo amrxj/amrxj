@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amraj</h1>
 <h3 align="center">A passionate cybersecurity student from Canada.</h3>
 
