@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amraj</h1>
 <h3 align="center">A passionate cybersecurity student from Canada.</h3>
 
-- 🔭 I’m currently working on [OSINT Tool Package](https://github.com/amrxj/OSINT-Toolset.git)
+- 🔭 I’m currently working on: [OSINT Tool Package](https://github.com/amrxj/OSINT-Toolset.git)
 
-- 🌱 I’m currently learning **Kali Linux & Microsoft Azure**
+- 🌱 I’m currently learning: **Kali Linux & Microsoft Azure**
 
 - 📄 check out my resume at: [(i'm workin on it :C)]((i'm workin on it :C))
 
-- ⚡ Fun fact **Marmots are 30 to 60cm in length.**
+- ⚡ Fun fact: **Marmots are 30 to 60cm in length.**
 
 
 </p>
