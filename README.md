@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Kali Linux & Microsoft Azure**
 
-- 📄 check out my resume at: [(i'm workin on it :C)]((i'm workin on it :C))
+- 📄 check out my resume at: [(i'm workin on it :C)]
 
 - ⚡ Fun fact: **Marmots are 30 to 60cm in length.**
 
