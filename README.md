@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [OSINT Tool Package](https://github.com/amrxj/OSINT-Toolset.git)
 
-- 🌱 I’m currently learning: **Kali Linux & Microsoft Azure**
+- 🌱 I’m currently learning: **Kali Linux & Machine Learning**
 
 - 📄 check out my resume at: [(i'm workin on it :C)]
 
