@@ -7,7 +7,7 @@
 
 - 📄 check out my resume at: [(i'm workin on it :C)]
 
-- ⚡ Fun fact: **Marmots are 30 to 60cm in length.**
+
 
 
 </p>
