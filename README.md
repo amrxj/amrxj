@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: **Kali Linux & Machine Learning**
 
-- 📄 check out my resume at: [(i'm workin on it :C)]
-
 
 
 
