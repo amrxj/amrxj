@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amraj</h1>
 <h3 align="center">A passionate cybersecurity student from Canada.</h3>
 
-- 🔭 I’m currently working on: [OSINT Tool Package](https://github.com/amrxj/OSINT-Toolset.git)
+- 🔭 I’m currently working on: [ZAPmap Scanner]
 
-- 🌱 I’m currently learning: **Kali Linux & Machine Learning**
+- 🌱 I’m currently learning: Python Cybersecurity Applications
 
 
 
