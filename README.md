@@ -2,4 +2,4 @@
 <h3 align="center">A passionate cybersecurity student from Canada.</h3>
 
 - 🔭 I’m currently working on ???
-- 🌱 I’m currently studying: CompTIA A+
+- 🌱 I’m currently studying: ???
